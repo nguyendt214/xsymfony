@@ -1,0 +1,14 @@
+web/bundles/
+app/bootstrap.php.cache
+app/cache/*
+app/logs/*
+app/config/parameters.yml
+build/
+vendor
+.DS_Store
+npm-debug.log
+.buildpath
+.settings
+.project
+client/node_modules
+.idea
