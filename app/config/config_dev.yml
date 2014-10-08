@@ -34,3 +34,7 @@ assetic:
 
 #swiftmailer:
 #    delivery_address: me@example.com
+
+# Twig Configuration
+twig:
+  cache: false
